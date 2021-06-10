@@ -1,11 +1,16 @@
 _repo: Pioneer-Work-in-Opening-the-Medical-Profession-to-Women_65496
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65496-h/images/cover.jpg
 creator:
   author:
     agent_name: Blackwell, Elizabeth
     gutenberg_agent_id: '53378'
     url: http://www.gutenberg.org/2009/agents/53378
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65496#Pioneer-Work-in-Opening-the-Medical-Profession-to-Women
 gutenberg_issued: '2021-06-03'
 gutenberg_type: Text
 identifiers:
